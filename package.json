@@ -1,0 +1,22 @@
+{
+  "name": "desktopappcjsea",
+  "version": "1.0.0",
+  "description": "\"# deskTopAppCJSEA\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "dependencies": {
+    "electron": "^13.3.0",
+    "knex": "^0.95.11",
+    "sqlite3": "^5.0.2"
+  },
+  "author": "brahim",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.14"
+  }
+}
